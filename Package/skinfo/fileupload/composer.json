@@ -1,0 +1,19 @@
+{
+    "name": "skinfo/fileupload",
+    "description": "file upload package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Skinfo\\Fileupload\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skchauhan",
+            "email": "skrajput42@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
